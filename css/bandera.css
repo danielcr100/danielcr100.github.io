@@ -1,0 +1,35 @@
+
+.rojo{
+    background-color: red;
+    height: 500px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    
+}
+
+.blanco{
+    background-color: white;
+
+    height: 100px;
+    flex: 1 1 auto;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+.azul{
+    
+    background-color: blue;
+    height: 50px;
+    flex: 1 1 auto;
+   
+}
+
+
+
+.azul1{
+    background-color: blue;
+    display: flex;
+
+}
