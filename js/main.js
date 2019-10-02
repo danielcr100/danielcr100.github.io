@@ -15,11 +15,11 @@
 
 // Funcion
 
-let Nombre = prompt("Nombre de Contacto");
+// let Nombre = prompt("Nombre de Contacto");
 
-let Apellido = prompt("apellido de contacto")
+// let Apellido = prompt("apellido de contacto")
 
-function nombrecompleto(Nombre, Apellido){
-    return "Su nombre completo es " + Nombre + " "+ Apellido 
-}
-console.log(nombrecompleto(Nombre , Apellido ))
+// function nombrecompleto(Nombre, Apellido){
+//     return "Su nombre completo es " + Nombre + " "+ Apellido 
+// }
+// console.log(nombrecompleto(Nombre , Apellido ))
