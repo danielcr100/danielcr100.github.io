@@ -41,4 +41,5 @@ else if (juego1=== "tijera" && juego2==="papel"){
     console. log("jugador 1 gana")
     alert ( "jugador 1 gana")
 }
+else if()
 
